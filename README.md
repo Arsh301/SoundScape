@@ -1,4 +1,4 @@
-#SoundScape
+# SoundScape
 A simple music website built using HTML, CSS, JavaScript, and Bootstrap. This project replicates the basic UI and functionality of Spotify, allowing users to browse and play music.
 
 ## Features
