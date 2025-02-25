@@ -167,7 +167,7 @@ const songs = [{
             search_results.style.display = "none";
         } else {
             search_results.style.display = "";
-        }
+        }      
         
      }
  })
